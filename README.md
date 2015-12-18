@@ -3,7 +3,11 @@
 Código Irreverente public website
 
 
-### RESOURCE ###
+### GitHub Redirect ###
+IP: 192.30.252.153
+
+
+### Resources ###
 
 * Bootstrap
 * Font-awesome
