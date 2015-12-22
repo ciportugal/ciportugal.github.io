@@ -551,7 +551,7 @@ ul.lead li {
     background: #fff;
 }
 .bg-dark {
-    background: #292929;
+    background: rgba(0,0,0,.7);
 }
 .color-body {
     color: #666;
@@ -1261,10 +1261,10 @@ nav .cart-overview a {
 }
 .offscreen-container .close-nav {
     position: absolute;
-    right: 24px;
+    right: 17px;
     top: 16px;
     z-index: 24;
-    font-size: 20px;
+    font-size: 20px;sudo
     transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -1448,14 +1448,16 @@ nav .cart-overview a {
         width: 100%;
     }
     nav.bg-dark .module.widget-handle {
-        border-top: 1px solid #444;
+        border-top: 1px solid transparent;
+        margin-top: 4px;
     }
-    nav.bg-dark .mobile-toggle {
-        border-left: 1px solid #444 !important;
-    }
-    nav.bg-dark .nav-open .mobile-toggle {
-        border-bottom: 1px solid #444;
-    }
+}
+nav.bg-dark .mobile-toggle {
+    border-left: 1px solid #444 !important;
+}
+nav.bg-dark .nav-open .mobile-toggle {
+    border-bottom: 1px solid #444;
+}
 }
 nav.outOfSight {
     transform: translate3d(0, -200px, 0);
@@ -1581,7 +1583,7 @@ nav.bg-dark .nav-bar {
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 nav.transparent.fixed.bg-dark {
-    background: #292929;
+    background: rgba(0,0,0,.7);
 }
 nav.transparent.fixed.bg-dark .menu > li > a,
 nav.transparent.fixed.bg-dark .module.widget-handle i {
@@ -3260,7 +3262,7 @@ img {
     margin-bottom: 24px;
 }
 .image-slider.height-70 .slides li {
-    height: 70vh;
+    height: 100vh;
     min-height: 600px;
 }
 @media all and (max-width: 767px) {
