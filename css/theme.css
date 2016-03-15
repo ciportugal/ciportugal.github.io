@@ -1580,7 +1580,7 @@ nav.bg-dark .module.widget-handle {
 }
 nav.bg-dark .nav-utility,
 nav.bg-dark .nav-bar {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom: none;
 }
 nav.transparent.fixed.bg-dark {
     background: rgba(0,0,0,.7);
