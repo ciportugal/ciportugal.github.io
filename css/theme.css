@@ -602,7 +602,7 @@ footer.bg-dark h5,
 nav.bg-dark h6,
 footer.bg-dark h6,
 .bg-primary h6 {
-    color: #ffffff;
+    color: #616365;
 }
 .bg-dark p,
 nav.bg-dark p,
@@ -616,7 +616,7 @@ footer.bg-dark span,
 nav.bg-dark li,
 footer.bg-dark li,
 .bg-primary li {
-    color: #fefefe;
+    color: #616365;
 }
 @media all and (max-width: 767px) {
     section {
@@ -1747,8 +1747,8 @@ input[type="password"] {
 input.transparent,
 button.transparent {
     background: none;
-    border: 1px solid rgba(255, 255, 255, 0.5);
-    color: #fff !important	;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    color: #616365 !important	;
 }
 input[type="text"]:focus,
 input[type="password"]:focus {
@@ -1826,7 +1826,7 @@ button[type="submit"] {
 .bg-primary input[type="submit"],
 .bg-primary button[type="submit"] {
     background: #fff;
-    color: #5edcd0;
+    color: #616365;
     border: 1px solid #fff;
 }
 input[type="submit"]:focus,
