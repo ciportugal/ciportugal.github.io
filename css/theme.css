@@ -551,7 +551,7 @@ ul.lead li {
     background: #fff;
 }
 .bg-dark {
-    background: rgba(0,0,0,.9);
+    background: #616365;
 }
 .color-body {
     color: #666;
@@ -616,7 +616,7 @@ footer.bg-dark span,
 nav.bg-dark li,
 footer.bg-dark li,
 .bg-primary li {
-    color: #616365;
+    color: #ffffff;
 }
 @media all and (max-width: 767px) {
     section {
