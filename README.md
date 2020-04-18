@@ -1,6 +1,6 @@
-# CÓDIGO IRREVERENTE #
+# CI #
 
-Código Irreverente public website
+CI public website
 
 
 ### GitHub Redirect ###
@@ -19,5 +19,4 @@ IP: 192.30.252.153
 
 ### About ###
 * Version: 1.0.0
-* Copyright © 2015 Código Irreverente, Lda.
-* More information at [geral@codigoirreverente.com](mailto:geral@codigoirreverente.com)
+* Copyright © 2015 CI.
